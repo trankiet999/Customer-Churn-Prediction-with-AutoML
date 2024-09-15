@@ -14,7 +14,7 @@ This project aims to leverage AutoML tools, specifically PyCaret, to build a pre
 
 To further enhance the understanding of the dataset and identify preprocessing needs, an in-depth Exploratory Data Analysis (EDA) was conducted. The detailed analysis report can be accessed using the link below:
 
-- **Analysis Report:** [Pandas Profiling Report](https://your-username.github.io/your-repo-name/customer_churn_eda_report.html)
+- **Analysis Report:** [Pandas Profiling Report](https://your-username.github.io/Customer-Churn-Prediction-with-AutoML/index.html)
 
 ### Dataset
 
